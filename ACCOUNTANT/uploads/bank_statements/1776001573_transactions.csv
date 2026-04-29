@@ -1,0 +1,6 @@
+"transaction_ref","date","description","amount"
+"MISM_001","2025-04-04","Unknown payment - no reference","50000.00"
+"TXN_001","2025-04-01","Payment from Juma Hassan - SSMS001","150000.00"
+"TXN_002","2025-04-02","Payment from Asha Mushi - SSMS002","75000.00"
+"TXN_003","2025-04-03","Payment from John Mwita - SSMS003","200000.00"
+"TXN_004","2025-04-05","Payment from Fatma Said - SSMS004","100000.00"
